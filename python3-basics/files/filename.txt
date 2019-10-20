@@ -1,0 +1,5 @@
+class A
+public static void main string args
+system dot  out dot println
+is this second line ? which byte ..?
+end of file
